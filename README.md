@@ -36,8 +36,8 @@ Apply functions to solve common problems and perform calculations<br>
 Enhance code reusability and organization using functions.<be>
 
 ### learning from task six:
-arrays<br>
-multi-dimensional arrays<br>
+arrays, multi-dimensional arrays<be>
+push(i), pop(), shift(), unshift(i)<br>
 map, filter, and reduce<br>
 loops & iteration methods.
 
