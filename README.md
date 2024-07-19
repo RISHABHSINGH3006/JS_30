@@ -33,5 +33,12 @@ function declarations, expressions, and arrow functions<br>
 function parameters and default values<br>
 higher-order functions<br>
 Apply functions to solve common problems and perform calculations<br>
-Enhance code reusability and organization using functions.<br>
+Enhance code reusability and organization using functions.<be>
+
+### learning from task six:
+arrays<br>
+multi-dimensional arrays<br>
+map, filter, and reduce<br>
+loops & iteration methods.
+
 
