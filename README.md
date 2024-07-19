@@ -26,4 +26,12 @@ for loops<br>
 while loops<br>
 do...while loops<be>
 Nested loops<br>
-loop control statements (break and continue)<br>
+loop control statements (break and continue)<be>
+
+### learning from task five:
+function declarations, expressions, and arrow functions<br>
+function parameters and default values<br>
+higher-order functions<br>
+Apply functions to solve common problems and perform calculations<br>
+Enhance code reusability and organization using functions.<br>
+
