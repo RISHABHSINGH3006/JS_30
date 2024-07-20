@@ -42,3 +42,7 @@ map, filter, and reduce<br>
 loops & iteration methods.
 
 ### task seven: objects
+objects with properties and methods<br>
+this keyword<br>
+nested objects and arrays of objects<br>
+loops and built-in methods.
