@@ -46,3 +46,10 @@ objects with properties and methods<br>
 this keyword<br>
 nested objects and arrays of objects<br>
 loops and built-in methods.
+
+### task eight: ES6 + FEATURES
+template literals for string interpolation and multi-line strings<br>
+destructuring to extract values from arrays and objects<br>
+spread and rest operators for array manipulation and function arguments<br>
+functions with default parameters<br>
+objects using enhanced object literals, including methods and computed property names
