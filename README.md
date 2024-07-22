@@ -53,3 +53,11 @@ destructuring to extract values from arrays and objects<br>
 spread and rest operators for array manipulation and function arguments<br>
 functions with default parameters<br>
 objects using enhanced object literals, including methods and computed property names
+
+
+### task nine: DOM Maniapulation
+Select and manipulate DOM elements using JavaScript.<br>
+Create and append new elements to the DOM.<br>
+Remove elements from the DOM.<br>
+Modify attributes and classes of HTML elements.<br>
+Add and handle events to make web pages interactive.
