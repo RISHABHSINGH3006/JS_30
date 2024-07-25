@@ -54,6 +54,12 @@ spread and rest operators for array manipulation and function arguments<br>
 functions with default parameters<br>
 objects using enhanced object literals, including methods and computed property names
 
+### task eight: Event Handling
+Add and handle basic events like click, double-click, mouseover, mouseout, keydown, and keyup.
+Understand and handle form events.
+Implement event delegation to manage events on dynamically added elements.
+Make web pages interactive by responding to various user actions.
+
 
 ### task nine: DOM Maniapulation
 Select and manipulate DOM elements using JavaScript.<br>
