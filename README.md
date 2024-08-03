@@ -75,15 +75,15 @@ Use async/await to handle asynchronous code more readably.<br>
 Fetch data from public APIs using both promises and asvric/await.<br>
 Manage multiple concurrent promises using. Promise all and Promise race
 
-### 12 - Modules
+### 12 - task Twelve: error handling
+Understand and implement basic error handling using try-catch blocks.<br>
+Use finally blocks to execute code regardless of the try-catch outcome.<br>
+Create and use custom error classes.<br>
+Handle errors in promises using .catch() and within async functions using try-catch.<br>
+Implement graceful error handling when making network requests with the fetch API.
+
+### 13 - Modules
 Create and export functions, objects, and constants using modules.<br/>
 Import modules using named and desult imports.<br/>
 Use third-party modules installed via npm.<br/>
 Understand the basics of module bundling (optional).
-
-### 12 - task Twelve: error handling
-Understand and implement basic error handling using try-catch blocks.<br>
- Use finally blocks to execute code regardless of the try-catch outcome.<br>
- Create and use custom error classes.<br>
- Handle errors in promises using .catch() and within async functions using try-catch.<br>
- Implement graceful error handling when making network requests with the fetch API.
